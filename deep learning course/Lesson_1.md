@@ -17,6 +17,7 @@ In the future, can simply run:
 
 ## Setting Up
 - Download the data from Google Images or online Open Dataset
+	- Course notebook [here](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb)
 - Use multi GPUs in parallel
 
 
