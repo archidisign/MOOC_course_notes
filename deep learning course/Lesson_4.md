@@ -3,6 +3,7 @@
 ## Definitions
 **bias**: added constant/term with the variables to define the model
 **Weights**: multiplied constant/term with the variables to define the model
+**collaborative filtering**: based on the fact that you are likely to like what someone similar to you likes.
 
 ## Dataset
 - Movielens 100k
