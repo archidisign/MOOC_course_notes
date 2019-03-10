@@ -8,7 +8,7 @@
 ## Dataset
 - MNIST
 - Improve image resolution tutorial [here](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson7-superres-imagenet.ipynb) and [here](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson7-superres.ipynb)
-- LSun bedroom data¶
+- LSun bedroom data
 
 ## Models
 - CNN with loss function comparison: code [here](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson7-resnet-mnist.ipynb)
