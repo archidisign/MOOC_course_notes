@@ -42,7 +42,7 @@ For the features that are important, how do they relate to the dependent variabl
 You are an insurance company and somebody rings up and you give them a quote and they say “oh, that’s $500 more than last year. Why?”
 -> To explain model's prediction
 
-### Example Explatnation
+### Example Explanation
 - The start price and the added changes
 - The enclusre
 - The model ID
