@@ -1,0 +1,5 @@
+Hadoop Commands
+
+sqoop import-all-tables [commands]
+hadoop fs -ls /user/hive/warehouse
+
